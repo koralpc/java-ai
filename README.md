@@ -1,1 +1,2 @@
 # java-ai
+I am starting this repository to mark my journey of practicing AI solutions coded in Java. Now that I have knowledge over the libraries in Python, I want to extend my knowledge further and practice another coding language with a different coding style. For that purpose, I choose Java as it's design perspectives and coding styles are bit different than Python but still there is quite some widespread support for Java based AI libraries. My main focus here will probably be on Tensorflow Java, but I might go and explore further on the way.
